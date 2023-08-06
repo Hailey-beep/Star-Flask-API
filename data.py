@@ -1,0 +1,1 @@
+data = [{'Star_name': 'Titawin', 'Mass': 2.5260300000000002e+30, 'Radius': 1029636000.0, 'Distance': '044.25', 'Gravity': 158.9267127430762}]
